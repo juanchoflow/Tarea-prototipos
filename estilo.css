@@ -1,0 +1,17 @@
+h1{ color: #fdfdfd;
+   text-align: center;
+   font-size: 6em;}
+html{background: url(fondo2.jpg)}
+p{ color: #fdfdfd;
+    text-align: center;
+    font-size: 2em;
+}
+table{ color: #fdfdfd;
+    border: 2px groove aqua;
+    width: 100%;
+}
+td{
+    text-align: center;
+background: #333a33;
+color:rgb(255, 255, 255);
+}
